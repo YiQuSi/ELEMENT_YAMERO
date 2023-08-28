@@ -19,6 +19,6 @@ bilibili.com##.part-undefined.pop-live-small-mode
 
 !------ 导航栏 ---------!
 ! 首页(等) 动态页 -- (下载客户端)
-bilibili.com##.download-client-trigger.download-entry
+bilibili.com##.download-client-trigger
 ! 漫画页 -- (下载 APP)
 manga.bilibili.com##.app-button.download-app
