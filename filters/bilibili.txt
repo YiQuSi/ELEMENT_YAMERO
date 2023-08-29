@@ -16,6 +16,8 @@ bilibili.com##.bili-grid:has(.battle-area)
 bilibili.com##.reply-notice
 ! 视频页 - (大家围观的直播)
 bilibili.com##.part-undefined.pop-live-small-mode
+! 视频页 - [边栏广告]
+bilibili.com##slide_ad.slide-ad-exp
 
 !------ 导航栏 ---------!
 ! 首页(等) 动态页 -- (下载客户端)
