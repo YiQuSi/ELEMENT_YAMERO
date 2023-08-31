@@ -19,6 +19,10 @@ bilibili.com##.part-undefined.pop-live-small-mode
 ! [边栏广告]
 bilibili.com###slide_ad.slide-ad-exp
 
+!------ 直播页 ---------!
+! (购物“小橙车”)
+live.bilibili.com###shop-popover-vm
+
 !------ 导航栏 ---------!
 ! (下载客户端)
 bilibili.com##.download-client-trigger
