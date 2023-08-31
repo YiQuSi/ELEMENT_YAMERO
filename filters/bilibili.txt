@@ -12,6 +12,8 @@ bilibili.com##.adblock-tips
 bilibili.com##.bili-grid:has(.eva-extension-area)
 ! 分区? - 赛事
 bilibili.com##.bili-grid:has(.battle-area)
+! 分区 - 直播
+bilibili.com##.bili-grid:has(.live-card-list)
 
 !------ 视频页 ---------!
 ! (大家围观的直播)
