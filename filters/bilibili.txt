@@ -5,22 +5,26 @@
 ! Homepage: https://github.com/YiQuSi/ELEMENT_YAMERO
 ! License: https://github.com/YiQuSi/ELEMENT_YAMERO/blob/main/LICENSE
 
-!------ 杂项 ---------!
-! 首页 - [广告拦截提示]
+!------ 首页 ---------!
+! [广告拦截提示]
 bilibili.com##.adblock-tips
-! 首页 - 分区? - 推广
+! 分区? - 推广
 bilibili.com##.bili-grid:has(.eva-extension-area)
-! 首页 - 分区? - 赛事
+! 分区? - 赛事
 bilibili.com##.bili-grid:has(.battle-area)
-! 视频页 动画页 动态页 - [回复通知]
-bilibili.com##.reply-notice
-! 视频页 - (大家围观的直播)
+
+!------ 视频页 ---------!
+! (大家围观的直播)
 bilibili.com##.part-undefined.pop-live-small-mode
-! 视频页 - [边栏广告]
+! [边栏广告]
 bilibili.com###slide_ad.slide-ad-exp
 
 !------ 导航栏 ---------!
-! 首页(等) 动态页 -- (下载客户端)
+! (下载客户端)
 bilibili.com##.download-client-trigger
-! 漫画页 -- (下载 APP)
+! (下载 APP)
 manga.bilibili.com##.app-button.download-app
+
+!------ 评论区 ---------!
+! [回复通知]
+bilibili.com##.reply-notice
