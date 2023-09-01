@@ -1,0 +1,12 @@
+! Title: YiQuSi's Miscellaneous - bing
+! Description: Just for personal use, not for everyone
+! Expires: 7 days
+! Last modified: %timestamp%
+! Homepage: https://github.com/YiQuSi/ELEMENT_YAMERO
+! License: https://github.com/YiQuSi/ELEMENT_YAMERO/blob/main/LICENSE
+
+!------ 搜索页 ---------!
+! Rewards - [红点]
+bing.com###rewards_header_icon > #redDotDisplayFill
+! (小冰)
+bing.com##.ev_talkbox_wrapper_min
