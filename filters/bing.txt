@@ -10,3 +10,5 @@
 bing.com###rewards_header_icon > #redDotDisplayFill
 ! (小冰)
 bing.com##.ev_talkbox_wrapper_min
+! 底栏 - 法律声明 - (新增)
+bing.com###b_legalnotif
