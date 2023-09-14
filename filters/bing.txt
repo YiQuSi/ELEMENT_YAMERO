@@ -8,6 +8,8 @@
 !------ 首页 ---------!
 ! [扫码下载]
 bing.com###id_qrcode_popup_positioner
+! (必应主页测验)
+bing.com##.hp_trivia_outer show
 
 !------ 搜索页 ---------!
 ! (小冰)
