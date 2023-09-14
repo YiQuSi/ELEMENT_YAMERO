@@ -20,6 +20,8 @@ bing.com##.ev_talkbox_wrapper_min
 bing.com###qs_searchBoxOuter
 
 !------ 导航栏 ---------!
+! (下载必应 App)
+bing.com###id_qrcode
 ! Rewards - [红点]
 bing.com###rewards_header_icon > #redDotDisplayFill
 
