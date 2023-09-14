@@ -10,6 +10,8 @@
 bing.com###id_qrcode_popup_positioner
 ! (必应主页测验)
 bing.com##.hp_trivia_outer show
+! [底行]
+bing.com##.hpl:has(.nomvs.msnpeek.widget.bottom_row)
 
 !------ 搜索页 ---------!
 ! (小冰)
