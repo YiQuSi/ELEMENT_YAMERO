@@ -5,12 +5,18 @@
 ! Homepage: https://github.com/YiQuSi/ELEMENT_YAMERO
 ! License: https://github.com/YiQuSi/ELEMENT_YAMERO/blob/main/LICENSE
 
+!------ 首页 ---------!
+
 !------ 搜索页 ---------!
-! 顶栏 - Rewards - [红点]
-bing.com###rewards_header_icon > #redDotDisplayFill
 ! (小冰)
 bing.com##.ev_talkbox_wrapper_min
-! 底栏 - 法律声明 - (新增)
-bing.com###b_legalnotif
-! 用户选择文本 - [搜索框]
+! <用户选择文本> - [搜索框]
 bing.com###qs_searchBoxOuter
+
+!------ 导航栏 ---------!
+! Rewards - [红点]
+bing.com###rewards_header_icon > #redDotDisplayFill
+
+!------ 页脚 ---------!
+! 法律声明 - (新增)
+bing.com###b_legalnotif
