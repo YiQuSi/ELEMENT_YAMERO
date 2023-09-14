@@ -6,6 +6,8 @@
 ! License: https://github.com/YiQuSi/ELEMENT_YAMERO/blob/main/LICENSE
 
 !------ 首页 ---------!
+! [扫码下载]
+bing.com###id_qrcode_popup_positioner
 
 !------ 搜索页 ---------!
 ! (小冰)
