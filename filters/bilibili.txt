@@ -16,6 +16,8 @@ bilibili.com##.bili-grid:has(.battle-area)
 bilibili.com##.bili-grid:has(.live-card-list)
 
 !------ 视频页 ---------!
+! 播放器 - (登记号)
+bilibili.com##.squirtle-record-item
 ! [大会员支付条]
 bilibili.com##[class^='.vipPaybar_container__']
 ! (大家围观的直播)
