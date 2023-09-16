@@ -19,7 +19,7 @@ bilibili.com##.bili-grid:has(.live-card-list)
 ! 播放器 - (登记号)
 bilibili.com##.squirtle-record-item
 ! [大会员支付条]
-bilibili.com##[class^='.vipPaybar_container__']
+bilibili.com##[class^='vipPaybar_container__']
 ! (大家围观的直播)
 bilibili.com##.part-undefined.pop-live-small-mode
 ! [边栏广告]
