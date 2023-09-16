@@ -23,7 +23,7 @@ bing.com###qs_searchBoxOuter
 ! (下载必应 App)
 bing.com###id_qrcode
 ! Rewards - [红点]
-bing.com###rewards_header_icon #redDotDisplay
+bing.com###rewards_header_icon\ serp #redDotDisplay
 
 !------ 页脚 ---------!
 ! 法律声明 - (新增)
