@@ -20,6 +20,8 @@ bilibili.com##.bili-grid:has(.live-card-list)
 bilibili.com##.squirtle-record-item
 ! [大会员支付条]
 bilibili.com##[class^='vipPaybar_container__']
+! [特殊小卡片]
+bilibili.com##.video-page-special-card-small
 ! (大家围观的直播)
 bilibili.com##.part-undefined.pop-live-small-mode
 ! [边栏广告]
