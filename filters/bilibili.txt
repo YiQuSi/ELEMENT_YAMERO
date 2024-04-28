@@ -25,7 +25,7 @@ bilibili.com##[class^='vipPaybar_container__']
 ! [特殊小卡片]
 bilibili.com##.video-page-special-card-small
 ! (大家围观的直播)
-bilibili.com##.part-undefined.pop-live-small-mode
+bilibili.com##.pop-live-small-mode
 ! [边栏广告]
 bilibili.com###slide_ad.slide-ad-exp
 
