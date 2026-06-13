@@ -21,7 +21,8 @@
 ||www.qianwen.com
 ||yuanbao.tencent.com
 
-/https?:\/\/www.google.com\/search?.*udm=50.*/
+! www.google.com/search?udm=50
+www.google.com##body:has(.I6JwNc)
 
 !---- 元素 ----!
 
