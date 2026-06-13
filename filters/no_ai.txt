@@ -1,0 +1,52 @@
+! Title: YiQuSi's ELEMENT YAMERO - No AI
+! Homepage: https://github.com/YiQuSi/ELEMENT_YAMERO
+! License: https://github.com/YiQuSi/ELEMENT_YAMERO/blob/master/LICENSE
+
+!---- 网站 ----!
+
+||chatgpt.com
+||claude.ai
+||gemini.google.com
+||aistudio.google.com
+||grok.com
+||www.meta.ai
+||copilot.microsoft.com
+||www.perplexity.ai
+
+||yiyan.baidu.com
+||chatglm.cn
+||chat.deepseek.com
+||www.doubao.com
+||www.kimi.com
+||www.qianwen.com
+||yuanbao.tencent.com
+
+/https?:\/\/www.google.com\/search?.*udm=50.*/
+
+!---- 元素 ----!
+
+! 首页 | 搜索框 > AI 模式
+www.google.com##.Y5MKCd.plR5qb
+! 导航栏 > AI 模式
+www.google.com##.beZ0tf.O1uzAe > [jsname="xBNgKe"]
+! AI 概览 - 顶部
+www.google.com###eKIzJc:has(.s7d4ef.X6JNf.PFXse)
+! AI 概览 - 内部
+www.google.com##.ULSxyf:has(.s7d4ef.X6JNf.PFXse)
+! 相关问题 (AI 概览)
+www.google.com##.ULSxyf:has(.Wt5Tfe)
+
+! 首页 | 导航栏 > Copilot
+www.bing.com###codex
+! 首页 | 搜索框 > Copilot
+www.bing.com##.cdxConv_slsboxl
+! 导航栏 > Copilot Search
+www.bing.com###b-scopeListItem-copilotsearch
+! 导航栏 > Copilot
+www.bing.com###b-scopeListItem-conv
+! 底部浮动 > 继续提问
+www.bing.com###b_copilot_search
+! Copilot Search
+www.bing.com###copans_container
+! Copilot - Q&A
+www.bing.com##.b_qnacdxcont
