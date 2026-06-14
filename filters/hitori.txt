@@ -71,6 +71,8 @@ bgm.tv###panelInterestWrapper .share
 ! 章节列表 > 讨论
 bgm.tv##.prg_popup .board:has(+ .cmt)
 bgm.tv##.prg_popup .cmt
+! 章节 > 吐槽箱
+bgm.tv##.singleCommentList
 ! 角色 / 制作人员 > 讨论
 bgm.tv##.rr:has(.icons_cmt)
 ! 曲目 > 讨论
