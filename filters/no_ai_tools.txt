@@ -19,5 +19,4 @@
 ||www.qianwen.com
 ||yuanbao.tencent.com
 
-! www.google.com/search?udm=50
-www.google.com##body:has(.I6JwNc)
+||www.google.com$removeparam=/udm=50/
