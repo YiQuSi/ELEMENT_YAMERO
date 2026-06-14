@@ -1,0 +1,89 @@
+! Title: YiQuSi's ELEMENT YAMERO - Hitori
+! Homepage: https://github.com/YiQuSi/ELEMENT_YAMERO
+! License: https://github.com/YiQuSi/ELEMENT_YAMERO/blob/master/LICENSE
+
+!---- 萌娘百科 ----!
+
+! 首页 | 推荐文章
+moegirl.org.cn###flow-index-view .flow-article
+! 首页 | 推荐页面 > 评分
+moegirl.org.cn##.ration-badge
+! 首页 | 推荐页面 > 热评
+moegirl.org.cn##.hot-comment
+! 首页 | 新建帖子
+moegirl.org.cn##.n-button[href="#/create/post"]
+! 页眉 > 聊一聊
+moegirl.org.cn##.open-in-app-chat
+! 页脚 > 违规举报 & 页面反馈
+moegirl.org.cn##.report-article-footer
+! 评论区
+moegirl.org.cn##.wiki-page-comments-app
+
+! 页脚 > 违规举报 & 页面反馈
+moegirl.uk##.report-article-footer
+! 页脚 > 你说的对…
+moegirl.uk###bodyContent::after
+! 评论区
+moegirl.uk###flowthread
+
+! 首页 | 推荐文章
+moegirl.tw###flow-index-view .flow-article
+! 首页 | 推荐页面 > 评分
+moegirl.tw##.ration-badge
+! 首页 | 推荐页面 > 热评
+moegirl.tw##.hot-comment
+! 首页 | 新建帖子
+moegirl.tw##.n-button[href="#/create/post"]
+! 页眉 > 聊一聊
+moegirl.tw##.open-in-app-chat
+! 评论区
+moegirl.tw##.wiki-page-comments-app
+
+!---- bangumi ----!
+
+! 首页 | 在刚才
+bgm.tv###home_tml
+! 首页 | 热门条目讨论
+bgm.tv###home_subject_tpc
+! 首页 | 小组话题
+bgm.tv###home_grp_tpc
+
+! 频道页 | 日志
+bgm.tv###columnSubjectBrowserA .section_line:has(+ .section #entry_list)
+bgm.tv###columnSubjectBrowserA .section:has(#entry_list)
+! 频道页 | 最新讨论
+bgm.tv###columnSubjectBrowserA .section_line:has(+ .section .topic_list)
+bgm.tv###columnSubjectBrowserA .section:has(.topic_list)
+
+! 推荐本条目的目录
+bgm.tv###subjectPanelIndex
+! 谁…这…?
+bgm.tv###subjectPanelCollect
+! 谁收藏了…?
+bgm.tv###crtPanelCollect
+
+! 收藏盒 > 评分
+bgm.tv###panelInterestWrapper .board
+bgm.tv###panelInterestWrapper [rel="v:rating"]
+! 收藏盒 > 分享
+bgm.tv###panelInterestWrapper .shareText
+bgm.tv###panelInterestWrapper .share
+! 章节列表 > 讨论
+bgm.tv##.prg_popup .board:has(+ .cmt)
+bgm.tv##.prg_popup .cmt
+! 角色 / 制作人员 > 讨论
+bgm.tv##.rr:has(.icons_cmt)
+! 曲目 > 讨论
+bgm.tv##.icons_cmt
+bgm.tv##.icons_cmt + .na
+! 角色介绍 > 讨论数
+bgm.tv##.jobs .primary
+! 评论
+bgm.tv###columnSubjectHomeB .subject_section:has(#entry_list)
+bgm.tv###columnSubjectHomeB .subject_section:has(+ a[name="subject_board"])
+! 讨论版
+bgm.tv###columnSubjectHomeB .subject_section:has(.topic_list)
+bgm.tv###columnSubjectHomeB .subject_section:has(.subtitle:only-child)
+! 吐槽箱
+bgm.tv###columnSubjectHomeB .subject_section:has(#comment_box)
+bgm.tv##.crtCommentList
