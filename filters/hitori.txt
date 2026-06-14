@@ -42,50 +42,50 @@ moegirl.tw##.wiki-page-comments-app
 !---- bangumi ----!
 
 ! 首页 | 在刚才
-bgm.tv###home_tml
+bangumi.tv,bgm.tv,chii.in###home_tml
 ! 首页 | 热门条目讨论
-bgm.tv###home_subject_tpc
+bangumi.tv,bgm.tv,chii.in###home_subject_tpc
 ! 首页 | 小组话题
-bgm.tv###home_grp_tpc
+bangumi.tv,bgm.tv,chii.in###home_grp_tpc
 
 ! 频道页 | 日志
-bgm.tv###columnSubjectBrowserA .section_line:has(+ .section #entry_list)
-bgm.tv###columnSubjectBrowserA .section:has(#entry_list)
+bangumi.tv,bgm.tv,chii.in###columnSubjectBrowserA .section_line:has(+ .section #entry_list)
+bangumi.tv,bgm.tv,chii.in###columnSubjectBrowserA .section:has(#entry_list)
 ! 频道页 | 最新讨论
-bgm.tv###columnSubjectBrowserA .section_line:has(+ .section .topic_list)
-bgm.tv###columnSubjectBrowserA .section:has(.topic_list)
+bangumi.tv,bgm.tv,chii.in###columnSubjectBrowserA .section_line:has(+ .section .topic_list)
+bangumi.tv,bgm.tv,chii.in###columnSubjectBrowserA .section:has(.topic_list)
 
 ! 推荐本条目的目录
-bgm.tv###subjectPanelIndex
+bangumi.tv,bgm.tv,chii.in###subjectPanelIndex
 ! 谁…这…?
-bgm.tv###subjectPanelCollect
+bangumi.tv,bgm.tv,chii.in###subjectPanelCollect
 ! 谁收藏了…?
-bgm.tv###crtPanelCollect
+bangumi.tv,bgm.tv,chii.in###crtPanelCollect
 
 ! 收藏盒 > 评分
-bgm.tv###panelInterestWrapper .board
-bgm.tv###panelInterestWrapper [rel="v:rating"]
+bangumi.tv,bgm.tv,chii.in###panelInterestWrapper .board
+bangumi.tv,bgm.tv,chii.in###panelInterestWrapper [rel="v:rating"]
 ! 收藏盒 > 分享
-bgm.tv###panelInterestWrapper .shareText
-bgm.tv###panelInterestWrapper .share
+bangumi.tv,bgm.tv,chii.in###panelInterestWrapper .shareText
+bangumi.tv,bgm.tv,chii.in###panelInterestWrapper .share
 ! 章节列表 > 讨论
-bgm.tv##.prg_popup .board:has(+ .cmt)
-bgm.tv##.prg_popup .cmt
+bangumi.tv,bgm.tv,chii.in##.prg_popup .board:has(+ .cmt)
+bangumi.tv,bgm.tv,chii.in##.prg_popup .cmt
 ! 章节 > 吐槽箱
-bgm.tv##.singleCommentList
+bangumi.tv,bgm.tv,chii.in##.singleCommentList
 ! 角色 / 制作人员 > 讨论
-bgm.tv##.rr:has(.icons_cmt)
+bangumi.tv,bgm.tv,chii.in##.rr:has(.icons_cmt)
 ! 曲目 > 讨论
-bgm.tv##.icons_cmt
-bgm.tv##.icons_cmt + .na
+bangumi.tv,bgm.tv,chii.in##.icons_cmt
+bangumi.tv,bgm.tv,chii.in##.icons_cmt + .na
 ! 角色介绍 > 讨论数
-bgm.tv##.jobs .primary
+bangumi.tv,bgm.tv,chii.in##.jobs .primary
 ! 评论
-bgm.tv###columnSubjectHomeB .subject_section:has(#entry_list)
-bgm.tv###columnSubjectHomeB .subject_section:has(+ a[name="subject_board"])
+bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(#entry_list)
+bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(+ a[name="subject_board"])
 ! 讨论版
-bgm.tv###columnSubjectHomeB .subject_section:has(.topic_list)
-bgm.tv###columnSubjectHomeB .subject_section:has(.subtitle:only-child)
+bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(.topic_list)
+bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(.subtitle:only-child)
 ! 吐槽箱
-bgm.tv###columnSubjectHomeB .subject_section:has(#comment_box)
-bgm.tv##.crtCommentList
+bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(#comment_box)
+bangumi.tv,bgm.tv,chii.in##.crtCommentList
