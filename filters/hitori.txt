@@ -5,39 +5,24 @@
 !---- 萌娘百科 ----!
 
 ! 首页 | 推荐文章
-moegirl.org.cn###flow-index-view .flow-article
+moegirl.org.cn,moegirl.tw###flow-index-view .flow-article
 ! 首页 | 推荐页面 > 评分
-moegirl.org.cn##.ration-badge
+moegirl.org.cn,moegirl.tw##.ration-badge
 ! 首页 | 推荐页面 > 热评
-moegirl.org.cn##.hot-comment
+moegirl.org.cn,moegirl.tw##.hot-comment
 ! 首页 | 新建帖子
-moegirl.org.cn##.n-button[href="#/create/post"]
+moegirl.org.cn,moegirl.tw##.n-button[href="#/create/post"]
 ! 页眉 > 聊一聊
-moegirl.org.cn##.open-in-app-chat
+moegirl.org.cn,moegirl.tw##.open-in-app-chat
 ! 页脚 > 违规举报 & 页面反馈
-moegirl.org.cn##.report-article-footer
+moegirl.org.cn,moegirl.uk##.report-article-footer
 ! 评论区
-moegirl.org.cn##.wiki-page-comments-app
+moegirl.org.cn,moegirl.tw##.wiki-page-comments-app
 
-! 页脚 > 违规举报 & 页面反馈
-moegirl.uk##.report-article-footer
 ! 页脚 > 你说的对…
 moegirl.uk###bodyContent::after
 ! 评论区
 moegirl.uk###flowthread
-
-! 首页 | 推荐文章
-moegirl.tw###flow-index-view .flow-article
-! 首页 | 推荐页面 > 评分
-moegirl.tw##.ration-badge
-! 首页 | 推荐页面 > 热评
-moegirl.tw##.hot-comment
-! 首页 | 新建帖子
-moegirl.tw##.n-button[href="#/create/post"]
-! 页眉 > 聊一聊
-moegirl.tw##.open-in-app-chat
-! 评论区
-moegirl.tw##.wiki-page-comments-app
 
 !---- bangumi ----!
 
