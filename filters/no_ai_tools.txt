@@ -1,0 +1,23 @@
+! Title: YiQuSi's ELEMENT YAMERO - No AI - Tools
+! Homepage: https://github.com/YiQuSi/ELEMENT_YAMERO
+! License: https://github.com/YiQuSi/ELEMENT_YAMERO/blob/master/LICENSE
+
+||chatgpt.com
+||claude.ai
+||gemini.google.com
+||aistudio.google.com
+||grok.com
+||www.meta.ai
+||copilot.microsoft.com
+||www.perplexity.ai
+
+||yiyan.baidu.com
+||chatglm.cn
+||chat.deepseek.com
+||www.doubao.com
+||www.kimi.com
+||www.qianwen.com
+||yuanbao.tencent.com
+
+! www.google.com/search?udm=50
+www.google.com##body:has(.I6JwNc)

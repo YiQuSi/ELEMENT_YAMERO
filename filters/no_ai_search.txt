@@ -1,30 +1,8 @@
-! Title: YiQuSi's ELEMENT YAMERO - No AI
+! Title: YiQuSi's ELEMENT YAMERO - No AI - Search
 ! Homepage: https://github.com/YiQuSi/ELEMENT_YAMERO
 ! License: https://github.com/YiQuSi/ELEMENT_YAMERO/blob/master/LICENSE
 
-!---- 网站 ----!
-
-||chatgpt.com
-||claude.ai
-||gemini.google.com
-||aistudio.google.com
-||grok.com
-||www.meta.ai
-||copilot.microsoft.com
-||www.perplexity.ai
-
-||yiyan.baidu.com
-||chatglm.cn
-||chat.deepseek.com
-||www.doubao.com
-||www.kimi.com
-||www.qianwen.com
-||yuanbao.tencent.com
-
-! www.google.com/search?udm=50
-www.google.com##body:has(.I6JwNc)
-
-!---- 元素 ----!
+!---- Google ----!
 
 ! 首页 | 搜索框 > AI 模式
 www.google.com##.Y5MKCd.plR5qb
@@ -36,6 +14,8 @@ www.google.com###eKIzJc:has(.s7d4ef.X6JNf.PFXse)
 www.google.com##.ULSxyf:has(.s7d4ef.X6JNf.PFXse)
 ! 相关问题 (AI 概览)
 www.google.com##.ULSxyf:has(.Wt5Tfe)
+
+!---- Bing ----!
 
 ! 首页 | 导航栏 > Copilot
 www.bing.com###codex
