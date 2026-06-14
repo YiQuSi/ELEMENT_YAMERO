@@ -8,6 +8,8 @@
 www.google.com##.Y5MKCd.plR5qb
 ! 导航栏 > AI 模式
 www.google.com##.beZ0tf.O1uzAe > [jsname="xBNgKe"]
+! 正在思考
+www.google.com##.NN8h5c
 ! AI 概览 - 顶部
 www.google.com###eKIzJc:has(.s7d4ef.X6JNf.PFXse)
 ! AI 概览 - 内部
@@ -29,5 +31,7 @@ www.bing.com###b-scopeListItem-conv
 www.bing.com###b_copilot_search
 ! Copilot Search
 www.bing.com###copans_container
+! AI 摘要
+www.bing.com##.b_ans:has(.cht_container)
 ! Copilot - Q&A
 www.bing.com##.b_qnacdxcont
