@@ -74,3 +74,6 @@ bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(.subtitle:on
 ! 吐槽箱
 bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(#comment_box)
 bangumi.tv,bgm.tv,chii.in##.crtCommentList
+
+! 评分信息
+bangumi.tv,bgm.tv,chii.in##.rateInfo
