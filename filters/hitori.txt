@@ -70,10 +70,11 @@ bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(#entry_list)
 bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(+ a[name="subject_board"])
 ! 讨论版
 bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(.topic_list)
-bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(.subtitle:only-child)
 ! 吐槽箱
 bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(#comment_box)
 bangumi.tv,bgm.tv,chii.in##.crtCommentList
+! (通用)
+bangumi.tv,bgm.tv,chii.in###columnSubjectHomeB .subject_section:has(.chiiBtn)
 
 ! 评分信息
 bangumi.tv,bgm.tv,chii.in##.rateInfo
